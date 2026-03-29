@@ -1,0 +1,1 @@
+{application,mohitkhare,[{modules,['Elixir.MohitKhare']},{optional_applications,[]},{applications,[kernel,stdlib,elixir]},{description,"Developer utilities and token counting tools."},{registered,[]},{vsn,"0.1.1"}]}.

@@ -5,7 +5,7 @@ defmodule MohitKhare do
   Homepage: https://mohitkhare.me
   """
 
-  @version "0.1.0"
+  @version "0.1.1"
   @base_url "https://mohitkhare.me"
 
   def version, do: @version
